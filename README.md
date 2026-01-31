@@ -3,7 +3,7 @@
 
 # GenogramAI — The AI-Powered Genogram Maker
 
-**Create clinical-grade genograms in minutes, not hours. From text, images, or conversation.**
+**Create genograms in minutes, not hours. From text, images, or conversation.**
 
 [Try GenogramAI Free](https://app.genogramai.com) · [Website](https://genogramai.com)
 
